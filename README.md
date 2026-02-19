@@ -16,5 +16,5 @@ I am
 #### Backend Developer at work and have some intentions for fullstack KMP developer for other time
 
 - I use daily `.java`, `.kt`, `.yaml`, `.xml` and `.properties`
-- Really love idea of Kotlin Multiplatform and community of it
+- Really love Kotlin Multiplatform, its idea and community
 - Currently at SberTech, Russia developing Apache Active MQ Artemis extensions
